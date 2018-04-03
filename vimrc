@@ -1,5 +1,5 @@
 syntax on
-colorscheme torte
+colorscheme elflord
 filetype on
 filetype plugin indent on
 set number
@@ -14,3 +14,4 @@ set softtabstop=4
 set shiftwidth=4
 set shiftround
 set backspace=2
+set mouse=a
