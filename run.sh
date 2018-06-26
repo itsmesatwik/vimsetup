@@ -1,5 +1,5 @@
 #!/bin/bash
-mv ./vimrc ~/.vimrc
+cp vimrc ~/.vimrc
 echo "Vimrc Configured"
-sleep(5)
+sleep 5 
 clear
